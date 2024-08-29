@@ -17,7 +17,7 @@ A simple and user-friendly Contact Management System built with Python and Tkint
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/OmTiwari739/Contact-Management-System
+   git clone https://github.com/OmTiwari739/Contact-Management-System.git
    cd contact-management-system
    ```
 
